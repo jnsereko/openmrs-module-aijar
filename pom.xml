@@ -77,7 +77,7 @@
 		<htmlformentryVersion>3.8.0</htmlformentryVersion>
 		<htmlwidgetsVersion>1.9.0</htmlwidgetsVersion>
 		<idgenVersion>4.5.0</idgenVersion>
-		<jacksonVersion>1.8.3</jacksonVersion>
+		<jacksonVersion>1.9.13</jacksonVersion>
 		<junitParamsVersion>1.0.4</junitParamsVersion>
 		<legacyuiVersion>1.4.0</legacyuiVersion>
 		<metadatadeployVersion>1.10.0</metadatadeployVersion>
